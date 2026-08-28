@@ -4,3 +4,6 @@ __pycache__
 
 # Test results
 .pytest_cache
+
+# Настройки
+.vscode
